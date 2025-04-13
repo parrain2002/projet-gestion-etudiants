@@ -1,0 +1,20 @@
+# PHP
+/vendor/
+*.log
+*.cache
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.production
+
+# IDEs
+.idea/
+.vscode/
+
+# Uploads
+/uploads/
