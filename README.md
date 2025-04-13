@@ -1,0 +1,3 @@
+# ��� STUDENT-MANAGEMENT-APP
+Une application web de gestion d'étudiants développée en PHP/MySQL...
+[→ Utilise le contenu complet du README.md donné dans le message précédent ici]

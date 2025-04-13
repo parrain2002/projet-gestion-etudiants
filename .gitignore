@@ -1,0 +1,20 @@
+# Fichiers temporaires / IDE
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Environnement local
+.env
+uploads/
+config/database.php
+
+# Node / Composer (au cas où)
+node_modules/
+vendor/
+
+# Archives
+*.zip
+*.tar.gz
